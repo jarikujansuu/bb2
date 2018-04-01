@@ -16,7 +16,9 @@ class Client(object):
         if not params:
             params = {}
         params['key'] = self.apikey
-        return requests.get(f'http://web.cyanide-studio.com/ws/bb2{path}/', params).json()
+
+        result = requests.get(f'http://web.cyanide-studio.com/ws/bb2{path}/', params).json()
+        return result if result else {'matches': []}  # matches endpoints return just false
 
     def coaches(self, league=None, competition=None, platform=None, limit=None):
         return self.fetch(
@@ -27,18 +29,18 @@ class Client(object):
                 'platform': platform,
                 'limit': limit
             }
-        )
+        )['coaches']
 
-    def teams(self, league=None, competition=None,platform=None,limit=None):
+    def teams(self, league=None, competition=None, platform=None, limit=None):
         return self.fetch(
-            path='teams',
+            path='/teams',
             params={
                 'league': league,
                 'competition': competition,
                 'plaform': platform,
                 'limit': limit
             }
-        )
+        )['teams']
 
     def team(self, name=None, id=None):
         return self.fetch(
@@ -47,7 +49,7 @@ class Client(object):
                 'name': name,
                 'id': id
             }
-        )
+        )['team']
 
     def matches(self, league=None, competition=None, platform=None, limit=None, start=None, end=None, version=2):
         return self.fetch(
@@ -60,17 +62,18 @@ class Client(object):
                 'start': start,
                 'end': end,
                 'bb': version
-            })
+            }
+        )['matches']
 
-    def match(self, id, platform=None,version=2):
+    def match(self, uuid, platform=None,version=2):
         return self.fetch(
             path='/match',
             params={
-                'match_id': id,
+                'match_id': uuid,
                 'platform': platform,
                 'bb': version
             }
-        )
+        )['match']
 
     def hall_of_fame(self, league=None, competition=None, platform=None,limit=None,exact_league_name=True):
         return self.fetch(
@@ -96,7 +99,7 @@ class Client(object):
                 'limit': limit,
                 'exact': int(exact_league_name) if exact_league_name else None
             }
-        )
+        )['upcoming_matches']
 
     def ladder(self, league=None, competition=None, platform=None, ladder_size=None):
         return self.fetch(
@@ -107,5 +110,5 @@ class Client(object):
                 'platform': platform,
                 'ladder_size': ladder_size
             }
-        )
+        )['ranking']
 
