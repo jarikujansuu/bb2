@@ -1,0 +1,16 @@
+[
+  {
+    "template": "In {{{ competition }}}.",
+    "weight": 1
+  },
+  {
+    "template": "Latest news from {{{ competition }}}.",
+    "weight": 1
+  },
+  {
+    "template": "Results are in from {{{ competition }}}."
+  },
+  {
+    "template": "And now reporting latest results from {{{ competition }}}."
+  }
+]

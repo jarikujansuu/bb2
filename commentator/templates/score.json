@@ -1,0 +1,28 @@
+{
+  "draw": [
+    {
+      "template": "Match between {{{ home }}} and {{{ visitor }}} ended {{{ home-score }}} - {{{ visitor-score }}}.",
+      "weight": 2
+    },
+    {
+      "template": "{{{ home }}} and {{{ visitor }}} finished their match in {{{ home-score }}} - {{{ visitor-score }}} draw."
+    }
+  ],
+  "win": [
+    {
+      "template": "Match between {{{ home }}} and {{{ visitor }}} ended {{{ home-score }}} - {{{ visitor-score }}}.",
+      "weight": 2
+    },
+    {
+      "template": "{{{ winner }}} won match against {{{ loser }}} with score {{{ winner-score }}} - {{{ loser-score }}}."
+    }
+  ],
+  "big-win": [
+    {
+      "template": "{{{ winner }}} crushed {{{ loser }}} {{{ winner-score }}} - {{{ loser-score }}}."
+    },
+    {
+      "template": "{{{ loser }}} was totally defeated by {{{ winner }}} with results {{{ loser-score }}} - {{{ winner-score }}}."
+    }
+  ]
+}
