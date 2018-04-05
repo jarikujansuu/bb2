@@ -1,0 +1,67 @@
+service: bb2
+
+provider:
+  name: aws
+  runtime: python3.6
+  stage: dev
+  region: eu-west-1
+  memorySize: 128
+  timeout: 300
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+      - KMS:Decrypt
+      Resource: ${self:custom.kmsSecrets.keyArn}
+  environment:
+    BB2: ${self:custom.kmsSecrets.secrets.bb2api}
+    LEAGUE: ${file(config.yml):tmp.league}
+    SCHEDULE_HOURS: ${file(config.yml):bb2api.synch.interval}
+
+custom:
+  kmsSecrets: ${file(kms-secrets.${opt:stage, self:provider.stage}.${opt:region, self:provider.region}.yml)}
+
+package:
+  exclude:
+    - examples/**
+    - config.yml
+    - package.json
+    - package-lock.json
+    - node_modules/**
+
+functions:
+  import-matches:
+    handler: data/import.import_matches
+
+  bigbob:
+    handler: commentator/commentator.tweet
+    environment:
+      TWITTER: ${self:custom.kmsSecrets.secrets.twitter}
+
+stepFunctions:
+  stateMachines:
+    data-import:
+      events:
+        - schedule:
+          name: import
+          description: 'Import data from Cyanide'
+          rate: rate(${file(config.yml):bb2api.synch.interval} hours)
+
+      definition:
+        Comment: "Import data from Cyanide"
+        StartAt: import-matches
+        States:
+          import-matches:
+            Type: Task
+            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-import-matches"
+            Next: bigbob
+
+          bigbob:
+            Type: Task
+            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-bigbob"
+            End: true
+
+plugins:
+  - serverless-step-functions
+  - serverless-pseudo-parameters
+  - serverless-kms-secrets
+  - serverless-python-requirements

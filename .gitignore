@@ -21,3 +21,6 @@ var/
 
 # IDE
 .idea
+
+# Sensitive data
+kms-secrets*

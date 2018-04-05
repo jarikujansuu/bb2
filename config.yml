@@ -1,0 +1,6 @@
+bb2api:
+  synch:
+    interval: 3
+
+tmp:
+  league: New Ogham
