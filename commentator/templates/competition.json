@@ -1,16 +1,16 @@
 [
   {
-    "template": "In {{{ competition }}}.",
+    "template": "In {{{ league }}} {{{ competition }}}.",
     "weight": 1
   },
   {
-    "template": "Latest news from {{{ competition }}}.",
+    "template": "Latest news from {{{ league }}} {{{ competition }}}.",
     "weight": 1
   },
   {
-    "template": "Results are in from {{{ competition }}}."
+    "template": "Results are in from {{{ league }}} {{{ competition }}}."
   },
   {
-    "template": "And now reporting latest results from {{{ competition }}}."
+    "template": "And now reporting latest results from {{{ league }}} {{{ competition }}}."
   }
 ]

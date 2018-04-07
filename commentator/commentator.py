@@ -2,7 +2,7 @@ import base64
 import boto3
 import json
 import os
-from commentator.writer import write
+from commentator.writer import match_report
 from birdy.twitter import UserClient
 
 kms = boto3.client('kms')
@@ -16,6 +16,8 @@ twitter = UserClient(
 )
 
 
-def tweet(matches, context):
+def tweet(event, context):
+    matches = event['matches']
+
     for match in matches:
-        twitter.api.statuses.update.post(status=write(match))
+        twitter.api.statuses.update.post(status=match_report(match))

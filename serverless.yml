@@ -29,6 +29,9 @@ package:
     - node_modules/**
 
 functions:
+  import-config:
+    handler: data/import.import_config
+
   import-matches:
     handler: data/import.import_matches
 
@@ -48,9 +51,17 @@ stepFunctions:
 
       definition:
         Comment: "Import data from Cyanide"
-        StartAt: import-matches
+        StartAt: import-config
         States:
+          import-config:
+            ResultPath: $.config
+            Type: Task
+            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-import-config"
+            Next: import-matches
+
           import-matches:
+            InputPath: $.config
+            ResultPath: $.matches
             Type: Task
             Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-import-matches"
             Next: bigbob
@@ -59,6 +70,26 @@ stepFunctions:
             Type: Task
             Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-bigbob"
             End: true
+
+resources:
+  Resources:
+    usersTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: bb2-config
+        AttributeDefinitions:
+          - AttributeName: category
+            AttributeType: S
+          - AttributeName: id
+            AttributeType: S
+        KeySchema:
+          - AttributeName: category
+            KeyType: HASH
+          - AttributeName: id
+            KeyType: RANGE
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
 
 plugins:
   - serverless-step-functions

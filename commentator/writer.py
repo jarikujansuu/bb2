@@ -4,7 +4,7 @@ import random
 from pystache import render
 
 
-def write(match_data):
+def match_report(match_data):
     m = match(match_data)
     return ' '.join(
         filter(
@@ -32,6 +32,7 @@ def match(match_data):
         result = 'win'
 
     return {
+        'league': match_data['leaguename'],
         'competition': match_data['competitionname'],
         'result': result,
         'home': home['teamname'],

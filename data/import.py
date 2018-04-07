@@ -2,6 +2,7 @@ import base64
 import boto3
 import json
 import os
+import config
 
 from datetime import datetime, timedelta
 from bb2api import Client
@@ -13,5 +14,14 @@ api = Client(secrets['apikey'])
 schedule_hours = int(os.environ['SCHEDULE_HOURS'])
 
 
+def import_config(event, context):
+    return map(lambda a: a['value'], config.load('import'))
+
+
 def import_matches(event, context):
-    return api.matches(league=os.environ['LEAGUE'], start=datetime.now() - timedelta(hours=schedule_hours))
+    for target in event:
+        return api.matches(
+            league=target['league'],
+            competition=target.get('competition'),
+            start=datetime.now() - timedelta(hours=schedule_hours)
+        )
