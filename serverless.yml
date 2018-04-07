@@ -13,8 +13,7 @@ provider:
       - KMS:Decrypt
       Resource: ${self:custom.kmsSecrets.keyArn}
   environment:
-    BB2: ${self:custom.kmsSecrets.secrets.bb2api}
-    LEAGUE: ${file(config.yml):tmp.league}
+    BB2_API_SECRETS: ${self:custom.kmsSecrets.secrets.bb2api}
     SCHEDULE_HOURS: ${file(config.yml):bb2api.synch.interval}
 
 custom:
@@ -38,7 +37,7 @@ functions:
   bigbob:
     handler: commentator/commentator.tweet
     environment:
-      TWITTER: ${self:custom.kmsSecrets.secrets.twitter}
+      TWITTER_API_SECRETS: ${self:custom.kmsSecrets.secrets.twitter}
 
 stepFunctions:
   stateMachines:

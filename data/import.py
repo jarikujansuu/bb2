@@ -1,16 +1,11 @@
-import base64
-import boto3
-import json
 import os
 import config
 
 from datetime import datetime, timedelta
 from bb2api import Client
+from util import decrypt_env_json
 
-kms = boto3.client('kms')
-secrets = json.loads(kms.decrypt(CiphertextBlob=base64.b64decode(os.environ['BB2']))[u'Plaintext'])
-
-api = Client(secrets['apikey'])
+api = Client(decrypt_env_json('BB2_API_SECRETS')['apikey'])
 schedule_hours = int(os.environ['SCHEDULE_HOURS'])
 
 

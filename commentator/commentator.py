@@ -1,12 +1,8 @@
-import base64
-import boto3
-import json
-import os
 from commentator.writer import match_report
 from birdy.twitter import UserClient
+from util import decrypt_env_json
 
-kms = boto3.client('kms')
-secrets = json.loads(kms.decrypt(CiphertextBlob=base64.b64decode(os.environ['TWITTER']))[u'Plaintext'])
+secrets = decrypt_env_json('TWITTER_API_SECRETS')
 
 twitter = UserClient(
     secrets['consumer_key'],
