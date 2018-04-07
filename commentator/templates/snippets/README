@@ -1,0 +1,8 @@
+Files in here are for template snippets that contain only possibly single
+words that will be added to more complete templates. For this reason these
+templates should include extra space in beginning of text, unless text is
+empty when it should be just "".
+
+" something witty" - OK
+"not like this" - Not OK, missing space
+" also not like this " - Not OK, extra space in end

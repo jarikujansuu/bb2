@@ -5,7 +5,10 @@
       "weight": 2
     },
     {
-      "template": "{{{ home }}} and {{{ visitor }}} finished their match in {{{ home-score }}} - {{{ visitor-score }}} draw."
+      "template": "{{{ home }}} and {{{ visitor }}} finished their{{{ match-description }}} match in {{{ home-score }}} - {{{ visitor-score }}} draw."
+    },
+    {
+      "template": "{{{ home }}} and {{{ visitor }}} ended in draw {{{ home-score }}} - {{{ visitor-score }}} in their{{{ match-description }}} match."
     }
   ],
   "win": [
@@ -14,7 +17,10 @@
       "weight": 2
     },
     {
-      "template": "{{{ winner }}} won match against {{{ loser }}} with score {{{ winner-score }}} - {{{ loser-score }}}."
+      "template": "{{{ winner }}} won{{{ match-description }}} match against {{{ loser }}} with score {{{ winner-score }}} - {{{ loser-score }}}."
+    },
+    {
+      "template": "{{{ loser }}} was defeated {{{ winner-score }}}-{{{ loser-score }}} by {{{ winner }}} in their{{{ match-description }}} match today."
     }
   ],
   "big-win": [
@@ -23,6 +29,9 @@
     },
     {
       "template": "{{{ loser }}} was totally defeated by {{{ winner }}} with results {{{ loser-score }}} - {{{ winner-score }}}."
+    },
+    {
+      "template": "{{{ loser }}} was embarrassingly defeated {{{ winner-score }}}-{{{ loser-score }}} by {{{ winner }}} in their{{{ match-description }}} match today."
     }
   ]
 }

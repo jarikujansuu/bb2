@@ -1,0 +1,36 @@
+{
+  "deadly": [
+    { "template": " deadly" },
+    { "template": " brutal" },
+    { "template": " almost too violent for me" },
+    { "template": " murderous" },
+    { "template": " deadly" },
+    { "template": " bloody" }
+  ],
+  "brutal": [
+    { "template": " brutal" },
+    { "template": " violent" },
+    { "template": " savage" },
+    { "template": " merciless" },
+    { "template": " vicious" },
+    { "template": "", "weight": 2 }
+  ],
+  "gentle": [
+    { "template": " boring" },
+    { "template": " civilized", "weight": 0.3 },
+    { "template": "", "weight": 3 }
+  ],
+  "lot-of-td": [
+    { "template": " quite interesting" },
+    { "template": " interesting" },
+    { "template": " eventful" },
+    { "template": " interesting" },
+    { "template": "", "weight": 2 }
+  ],
+  "td-frenzy": [
+    { "template": " insane" },
+    { "template": " amazing" },
+    { "template": " incredible touchdown frenzy" },
+    { "template": " probably the one of my careers most exciting" }
+  ]
+}
