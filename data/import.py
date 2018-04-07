@@ -10,7 +10,7 @@ schedule_hours = int(os.environ['SCHEDULE_HOURS'])
 
 
 def import_config(event, context):
-    return map(lambda a: a['value'], config.load('import'))
+    return list(map(lambda a: a['value'], config.load('import')))
 
 
 def import_matches(event, context):
