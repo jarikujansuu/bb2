@@ -19,5 +19,5 @@ def tweet(event, context):
         twitter.api.statuses.update.post(status=match_report(match))
 
     return {
-        'matches': list(map(lambda a: a[id], matches))
+        'matches': list(map(lambda a: a['uuid'], matches))
     }
