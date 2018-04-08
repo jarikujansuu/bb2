@@ -1,37 +1,37 @@
 {
   "draw": [
     {
-      "template": "Match between {{{ home }}} and {{{ visitor }}} ended {{{ home-score }}}-{{{ visitor-score }}}.",
+      "template": "Match between {{{ home }}} and {{{ visitor }}} ended {{{ home_score }}}-{{{ visitor_score }}}.",
       "weight": 2
     },
     {
-      "template": "{{{ home }}} and {{{ visitor }}} finished their{{{ match-description }}} match in {{{ home-score }}}-{{{ visitor-score }}} draw."
+      "template": "{{{ home }}} and {{{ visitor }}} finished their{{{ match_description }}} match in {{{ home_score }}}-{{{ visitor_score }}} draw."
     },
     {
-      "template": "{{{ home }}} and {{{ visitor }}} ended in draw {{{ home-score }}}-{{{ visitor-score }}} in their{{{ match-description }}} match."
+      "template": "{{{ home }}} and {{{ visitor }}} ended in draw {{{ home_score }}}-{{{ visitor_score }}} in their{{{ match_description }}} match."
     }
   ],
   "win": [
     {
-      "template": "Match between {{{ home }}} and {{{ visitor }}} ended {{{ home-score }}}-{{{ visitor-score }}}.",
+      "template": "Match between {{{ home }}} and {{{ visitor }}} ended {{{ home_score }}}-{{{ visitor_score }}}.",
       "weight": 2
     },
     {
-      "template": "{{{ winner }}} won{{{ match-description }}} match against {{{ loser }}} with score {{{ winner-score }}}-{{{ loser-score }}}."
+      "template": "{{{ winner }}} won{{{ match_description }}} match against {{{ loser }}} with score {{{ winner_score }}}-{{{ loser_score }}}."
     },
     {
-      "template": "{{{ loser }}} was defeated {{{ winner-score }}}-{{{ loser-score }}} by {{{ winner }}} in their{{{ match-description }}} match today."
+      "template": "{{{ loser }}} was defeated {{{ winner_score }}}-{{{ loser_score }}} by {{{ winner }}} in their{{{ match_description }}} match today."
     }
   ],
-  "big-win": [
+  "big_win": [
     {
-      "template": "{{{ winner }}} crushed {{{ loser }}} {{{ winner-score }}}-{{{ loser-score }}}."
+      "template": "{{{ winner }}} crushed {{{ loser }}} {{{ winner_score }}}-{{{ loser_score }}}."
     },
     {
-      "template": "{{{ loser }}} was totally defeated by {{{ winner }}} with results {{{ loser-score }}}-{{{ winner-score }}}."
+      "template": "{{{ loser }}} was totally defeated by {{{ winner }}} with results {{{ loser_score }}}-{{{ winner_score }}}."
     },
     {
-      "template": "{{{ loser }}} was embarrassingly defeated {{{ winner-score }}}-{{{ loser-score }}} by {{{ winner }}} in their{{{ match-description }}} match today."
+      "template": "{{{ loser }}} was embarrassingly defeated {{{ winner_score }}}-{{{ loser_score }}} by {{{ winner }}} in their{{{ match_description }}} match today."
     }
   ]
 }

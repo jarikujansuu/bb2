@@ -25,7 +25,7 @@ def match(match_data):
     if winner['score'] == loser['score']:
         result = 'draw'
     elif winner['score'] > (loser['score'] + 3):
-        result = 'big-win'
+        result = 'big_win'
     else:
         result = 'win'
 
@@ -34,14 +34,14 @@ def match(match_data):
         'competition': match_data['competitionname'],
         'result': result,
         'home': home['teamname'],
-        'home-score': home['score'],
+        'home_score': home['score'],
         'visitor': visitor['teamname'],
-        'visitor-score': visitor['score'],
+        'visitor_score': visitor['score'],
         'winner': winner['teamname'],
-        'winner-score': winner['score'],
+        'winner_score': winner['score'],
         'loser': loser['teamname'],
-        'loser-score': loser['score'],
-        'match-categorization': match_categorization(match_data)
+        'loser_score': loser['score'],
+        'match_categorization': match_categorization(match_data)
     }
 
 
@@ -64,9 +64,9 @@ def match_categorization(match_data):
 
     def scoring():
         if winner['score'] + loser['score'] > 6:
-            return {'value': 'td-frenzy', 'weight': 5}
+            return {'value': 'td_frenzy', 'weight': 5}
         elif winner['score'] + loser['score'] > 4:
-            return {'value': 'lot-of-td', 'weight': 2}
+            return {'value': 'lot_of_td', 'weight': 2}
         return None
 
     def events():
@@ -88,7 +88,7 @@ def match_categorization(match_data):
         for _, count in filter(lambda a: a[0] in event_types, loser.items()):
             loser_count += count
 
-        print(f'ANALYZE: event-count: {winner_count + loser_count}, winner-count: {winner_count}, loser-count: {loser_count}')
+        print(f'ANALYZE: event_count: {winner_count + loser_count}, winner_count: {winner_count}, loser_count: {loser_count}')
         return None
 
     def weighted_random(values):
@@ -116,5 +116,5 @@ def score(match):
     return render(
         template=random_template(load_templates('score')[match['result']]),
         context=match,
-        match_description=snippet('match-description', match['match-categorization'])
+        match_description=snippet('match_description', match['match_categorization'])
     )

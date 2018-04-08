@@ -20,14 +20,14 @@
     { "template": " civilized", "weight": 0.3 },
     { "template": "", "weight": 3 }
   ],
-  "lot-of-td": [
+  "lot_of_td": [
     { "template": " quite interesting" },
     { "template": " interesting" },
     { "template": " eventful" },
     { "template": " interesting" },
     { "template": "", "weight": 2 }
   ],
-  "td-frenzy": [
+  "td_frenzy": [
     { "template": " insane" },
     { "template": " amazing" },
     { "template": " incredible touchdown frenzy" },
