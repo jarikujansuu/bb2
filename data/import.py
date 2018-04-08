@@ -1,7 +1,7 @@
-import os
 import config
+import os
 
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from bb2api import Client
 from util import decrypt_env_json
 
@@ -18,5 +18,5 @@ def import_matches(event, context):
         return api.matches(
             league=target['league'],
             competition=target.get('competition'),
-            start=datetime.now() - timedelta(hours=schedule_hours)
+            start=datetime.now(timezone.utc) - timedelta(hours=schedule_hours)
         )
