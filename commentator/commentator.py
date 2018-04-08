@@ -17,3 +17,7 @@ def tweet(event, context):
 
     for match in matches:
         twitter.api.statuses.update.post(status=match_report(match))
+
+    return {
+        'matches': list(map(lambda a: a[id], matches))
+    }

@@ -81,6 +81,7 @@ stepFunctions:
             Next: bigbob
 
           bigbob:
+            ResultPath: $.tweeted
             Type: Task
             Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-bigbob"
             End: true
