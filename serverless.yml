@@ -61,7 +61,7 @@ stepFunctions:
         - schedule:
             name: bb2-import
             description: 'Import data from Cyanide'
-            rate: rate(${file(config.yml):bb2api.synch.interval} hours)
+            rate: rate(${file(config.yml):bb2api.synch.interval} hour)
 
       definition:
         Comment: "Import data from Cyanide"
