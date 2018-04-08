@@ -54,7 +54,7 @@ def match_categorization(match_data):
     def violence():
         deaths = winner['inflicteddead'] + loser['inflicteddead']
         casualties = winner['inflictedinjuries'] + loser['inflictedinjuries']
-        if deaths > 3:
+        if deaths > 2:
             return {'value': 'deadly', 'weight': 5}
         elif deaths + casualties > 5:
             return {'value': 'brutal', 'weight': 3}
