@@ -1,6 +1,6 @@
 from commentator.writer import match_report
 from birdy.twitter import UserClient
-from util import decrypt_env_json
+from util.encryption import decrypt_env_json
 
 secrets = decrypt_env_json('TWITTER_API_SECRETS')
 
