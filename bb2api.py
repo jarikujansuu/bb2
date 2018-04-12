@@ -29,7 +29,7 @@ class Client(object):
                 'platform': platform,
                 'limit': limit
             }
-        )['coaches']
+        ).get('coaches') or []
 
     def teams(self, league=None, competition=None, platform=None, limit=None):
         return self.fetch(
@@ -40,7 +40,7 @@ class Client(object):
                 'plaform': platform,
                 'limit': limit
             }
-        )['teams']
+        ).get('teams') or []
 
     def team(self, name=None, id=None):
         return self.fetch(
@@ -49,7 +49,7 @@ class Client(object):
                 'name': name,
                 'id': id
             }
-        )['team']
+        ).get('team')
 
     def matches(self, league=None, competition=None, platform=None, limit=None, start=None, end=None, version=2):
         return self.fetch(
@@ -63,7 +63,7 @@ class Client(object):
                 'end': end,
                 'bb': version
             }
-        )['matches']
+        ).get('matches') or []
 
     def match(self, uuid, platform=None,version=2):
         return self.fetch(
@@ -73,7 +73,7 @@ class Client(object):
                 'platform': platform,
                 'bb': version
             }
-        )['match']
+        ).get('match')
 
     def hall_of_fame(self, league=None, competition=None, platform=None,limit=None,exact_league_name=True):
         return self.fetch(
@@ -99,7 +99,7 @@ class Client(object):
                 'limit': limit,
                 'exact': int(exact_league_name) if exact_league_name else None
             }
-        )['upcoming_matches']
+        ).get('upcoming_matches') or []
 
     def ladder(self, league=None, competition=None, platform=None, ladder_size=None):
         return self.fetch(
@@ -110,5 +110,5 @@ class Client(object):
                 'platform': platform,
                 'ladder_size': ladder_size
             }
-        )['ranking']
+        ).get('ranking') or []
 
