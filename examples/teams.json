@@ -1,0 +1,62 @@
+[
+  {
+    "team": "East Ogham Brawlers",
+    "id": 2075899,
+    "coach": "jarik",
+    "logo": "Orc_17",
+    "race_id": 4,
+    "race": "Orc",
+    "description": "We come. We crush. We win.",
+    "dateLastMatch": "2018-04-09 17:07:33"
+  },
+  {
+    "team": "New Ogham White Walkers",
+    "id": 2077240,
+    "coach": "antman",
+    "logo": "Undead_02",
+    "race_id": 10,
+    "race": "Undead",
+    "description": "For the night king.",
+    "dateLastMatch": "2018-03-24 10:43:11"
+  },
+  {
+    "team": "Bugman's Bitter",
+    "id": 2078332,
+    "coach": "s75r",
+    "logo": "Dwarf_09",
+    "race_id": 2,
+    "race": "Dwarf",
+    "description": "Beer, Beer, Beer",
+    "dateLastMatch": "2018-03-24 19:43:07"
+  },
+  {
+    "team": "The Flight Of Nightmares",
+    "id": 2087722,
+    "coach": "Ironfists",
+    "logo": "Neutre_20",
+    "race_id": 17,
+    "race": "Necromantic",
+    "description": "No leap no glory!",
+    "dateLastMatch": "2018-03-26 18:12:31"
+  },
+  {
+    "team": "WC NO Dark Delights",
+    "id": 2099525,
+    "coach": "coldy",
+    "logo": "DarkElf_04",
+    "race_id": 9,
+    "race": "DarkElf",
+    "description": "Let's do it boys ...",
+    "dateLastMatch": "2018-03-30 09:33:14"
+  },
+  {
+    "team": "Zunk's Hero's:Ogham Style",
+    "id": 2103184,
+    "coach": "AndyDavo",
+    "logo": "Neutre_22",
+    "race_id": 7,
+    "race": "WoodElf",
+    "description": "In Zunk we trust....(still)",
+    "dateLastMatch": "2018-04-09 17:07:33"
+  }
+]

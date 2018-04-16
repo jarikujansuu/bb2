@@ -1,0 +1,5602 @@
+[
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361893,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 178690,
+          "name": "Lykke",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2114838,
+          "name": "Green men.",
+          "logo": "Orc_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 35286,
+          "name": "ikis",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068743,
+          "name": "Cheeese gaming",
+          "logo": "Necromantic_10",
+          "value": 980,
+          "motto": "We fight for the User! Oh wait, wrong franchise.",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361894,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 234330,
+          "name": "Patopotamo2",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110586,
+          "name": "Ibaiko Txikitxoak",
+          "logo": "ChaosDwarf_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 21111,
+          "name": "caio",
+          "twitch": null,
+          "youtube": null,
+          "country": "uy",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2069187,
+          "name": "Regis Mortis",
+          "logo": "Neutre_27",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361895,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 9455,
+          "name": "Stringer Bell",
+          "twitch": null,
+          "youtube": null,
+          "country": "ca",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101147,
+          "name": "Which Elves???",
+          "logo": "DarkElf_19",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 13387,
+          "name": "Zeldorn",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2092005,
+          "name": "Philarmonic Orc Kestra",
+          "logo": "Orc_05",
+          "value": 990,
+          "motto": "C'est du classique!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361896,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 21111,
+          "name": "caio",
+          "twitch": null,
+          "youtube": null,
+          "country": "uy",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2069187,
+          "name": "Regis Mortis",
+          "logo": "Neutre_27",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 178690,
+          "name": "Lykke",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2114838,
+          "name": "Green men.",
+          "logo": "Orc_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361897,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 13387,
+          "name": "Zeldorn",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2092005,
+          "name": "Philarmonic Orc Kestra",
+          "logo": "Orc_05",
+          "value": 990,
+          "motto": "C'est du classique!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 35286,
+          "name": "ikis",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068743,
+          "name": "Cheeese gaming",
+          "logo": "Necromantic_10",
+          "value": 980,
+          "motto": "We fight for the User! Oh wait, wrong franchise.",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361898,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 9455,
+          "name": "Stringer Bell",
+          "twitch": null,
+          "youtube": null,
+          "country": "ca",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101147,
+          "name": "Which Elves???",
+          "logo": "DarkElf_19",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 234330,
+          "name": "Patopotamo2",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110586,
+          "name": "Ibaiko Txikitxoak",
+          "logo": "ChaosDwarf_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361899,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 178690,
+          "name": "Lykke",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2114838,
+          "name": "Green men.",
+          "logo": "Orc_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 13387,
+          "name": "Zeldorn",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2092005,
+          "name": "Philarmonic Orc Kestra",
+          "logo": "Orc_05",
+          "value": 990,
+          "motto": "C'est du classique!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361900,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 21111,
+          "name": "caio",
+          "twitch": null,
+          "youtube": null,
+          "country": "uy",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2069187,
+          "name": "Regis Mortis",
+          "logo": "Neutre_27",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 9455,
+          "name": "Stringer Bell",
+          "twitch": null,
+          "youtube": null,
+          "country": "ca",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101147,
+          "name": "Which Elves???",
+          "logo": "DarkElf_19",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361901,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 35286,
+          "name": "ikis",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068743,
+          "name": "Cheeese gaming",
+          "logo": "Necromantic_10",
+          "value": 980,
+          "motto": "We fight for the User! Oh wait, wrong franchise.",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 234330,
+          "name": "Patopotamo2",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110586,
+          "name": "Ibaiko Txikitxoak",
+          "logo": "ChaosDwarf_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361902,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 9455,
+          "name": "Stringer Bell",
+          "twitch": null,
+          "youtube": null,
+          "country": "ca",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101147,
+          "name": "Which Elves???",
+          "logo": "DarkElf_19",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 178690,
+          "name": "Lykke",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2114838,
+          "name": "Green men.",
+          "logo": "Orc_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361903,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 234330,
+          "name": "Patopotamo2",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110586,
+          "name": "Ibaiko Txikitxoak",
+          "logo": "ChaosDwarf_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 13387,
+          "name": "Zeldorn",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2092005,
+          "name": "Philarmonic Orc Kestra",
+          "logo": "Orc_05",
+          "value": 990,
+          "motto": "C'est du classique!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361904,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 35286,
+          "name": "ikis",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068743,
+          "name": "Cheeese gaming",
+          "logo": "Necromantic_10",
+          "value": 980,
+          "motto": "We fight for the User! Oh wait, wrong franchise.",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 21111,
+          "name": "caio",
+          "twitch": null,
+          "youtube": null,
+          "country": "uy",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2069187,
+          "name": "Regis Mortis",
+          "logo": "Neutre_27",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361905,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 178690,
+          "name": "Lykke",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2114838,
+          "name": "Green men.",
+          "logo": "Orc_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 234330,
+          "name": "Patopotamo2",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110586,
+          "name": "Ibaiko Txikitxoak",
+          "logo": "ChaosDwarf_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361906,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 9455,
+          "name": "Stringer Bell",
+          "twitch": null,
+          "youtube": null,
+          "country": "ca",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101147,
+          "name": "Which Elves???",
+          "logo": "DarkElf_19",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 35286,
+          "name": "ikis",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068743,
+          "name": "Cheeese gaming",
+          "logo": "Necromantic_10",
+          "value": 980,
+          "motto": "We fight for the User! Oh wait, wrong franchise.",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 1",
+    "competition_id": 91029,
+    "contest_id": 361907,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 13387,
+          "name": "Zeldorn",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2092005,
+          "name": "Philarmonic Orc Kestra",
+          "logo": "Orc_05",
+          "value": 990,
+          "motto": "C'est du classique!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 21111,
+          "name": "caio",
+          "twitch": null,
+          "youtube": null,
+          "country": "uy",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2069187,
+          "name": "Regis Mortis",
+          "logo": "Neutre_27",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361908,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 219284,
+          "name": "W1seOwl",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2121054,
+          "name": "Mean Green Riot Machine",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 32159,
+          "name": "Feanaro Seregon",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2071809,
+          "name": "Viking Crown",
+          "logo": "Norse_10",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Norse"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361909,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 238915,
+          "name": "Isarnwolf",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110247,
+          "name": "OLWAYS GO OGHAM",
+          "logo": "Lizardman_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Lizardman"
+        }
+      },
+      {
+        "coach": {
+          "id": 197211,
+          "name": "Woofbark",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2100450,
+          "name": "Second Dusk of the Dead",
+          "logo": "Undead_02",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361910,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 234520,
+          "name": "CDrake",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110217,
+          "name": "Green Dudes in Blue Suits",
+          "logo": "Orc_12",
+          "value": 970,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 234914,
+          "name": "Pjovejas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101044,
+          "name": "The Black company..",
+          "logo": "Necromantic_01",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361911,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 197211,
+          "name": "Woofbark",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2100450,
+          "name": "Second Dusk of the Dead",
+          "logo": "Undead_02",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 219284,
+          "name": "W1seOwl",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2121054,
+          "name": "Mean Green Riot Machine",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361912,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 234914,
+          "name": "Pjovejas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101044,
+          "name": "The Black company..",
+          "logo": "Necromantic_01",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 32159,
+          "name": "Feanaro Seregon",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2071809,
+          "name": "Viking Crown",
+          "logo": "Norse_10",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Norse"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361913,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 234520,
+          "name": "CDrake",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110217,
+          "name": "Green Dudes in Blue Suits",
+          "logo": "Orc_12",
+          "value": 970,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 238915,
+          "name": "Isarnwolf",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110247,
+          "name": "OLWAYS GO OGHAM",
+          "logo": "Lizardman_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Lizardman"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361914,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 219284,
+          "name": "W1seOwl",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2121054,
+          "name": "Mean Green Riot Machine",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 234914,
+          "name": "Pjovejas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101044,
+          "name": "The Black company..",
+          "logo": "Necromantic_01",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361915,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 197211,
+          "name": "Woofbark",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2100450,
+          "name": "Second Dusk of the Dead",
+          "logo": "Undead_02",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 234520,
+          "name": "CDrake",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110217,
+          "name": "Green Dudes in Blue Suits",
+          "logo": "Orc_12",
+          "value": 970,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361916,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 32159,
+          "name": "Feanaro Seregon",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2071809,
+          "name": "Viking Crown",
+          "logo": "Norse_10",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Norse"
+        }
+      },
+      {
+        "coach": {
+          "id": 238915,
+          "name": "Isarnwolf",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110247,
+          "name": "OLWAYS GO OGHAM",
+          "logo": "Lizardman_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Lizardman"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361917,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 234520,
+          "name": "CDrake",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110217,
+          "name": "Green Dudes in Blue Suits",
+          "logo": "Orc_12",
+          "value": 970,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 219284,
+          "name": "W1seOwl",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2121054,
+          "name": "Mean Green Riot Machine",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361918,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 238915,
+          "name": "Isarnwolf",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110247,
+          "name": "OLWAYS GO OGHAM",
+          "logo": "Lizardman_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Lizardman"
+        }
+      },
+      {
+        "coach": {
+          "id": 234914,
+          "name": "Pjovejas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101044,
+          "name": "The Black company..",
+          "logo": "Necromantic_01",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361919,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 32159,
+          "name": "Feanaro Seregon",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2071809,
+          "name": "Viking Crown",
+          "logo": "Norse_10",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Norse"
+        }
+      },
+      {
+        "coach": {
+          "id": 197211,
+          "name": "Woofbark",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2100450,
+          "name": "Second Dusk of the Dead",
+          "logo": "Undead_02",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361920,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 219284,
+          "name": "W1seOwl",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2121054,
+          "name": "Mean Green Riot Machine",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 238915,
+          "name": "Isarnwolf",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110247,
+          "name": "OLWAYS GO OGHAM",
+          "logo": "Lizardman_12",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Lizardman"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361921,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 234520,
+          "name": "CDrake",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2110217,
+          "name": "Green Dudes in Blue Suits",
+          "logo": "Orc_12",
+          "value": 970,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 32159,
+          "name": "Feanaro Seregon",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2071809,
+          "name": "Viking Crown",
+          "logo": "Norse_10",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Norse"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 2",
+    "competition_id": 91030,
+    "contest_id": 361922,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 234914,
+          "name": "Pjovejas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2101044,
+          "name": "The Black company..",
+          "logo": "Necromantic_01",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 197211,
+          "name": "Woofbark",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2100450,
+          "name": "Second Dusk of the Dead",
+          "logo": "Undead_02",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361878,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 138639,
+          "name": "SuperResistante",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2120192,
+          "name": "As des Os",
+          "logo": "Undead_01",
+          "value": 1000,
+          "motto": "Kraaaack",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 1031,
+          "name": "JRCO",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2060271,
+          "name": "Brothers Of Bodom",
+          "logo": "DarkElf_02",
+          "value": 1000,
+          "motto": "Kill !",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361879,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 169127,
+          "name": "Nykteas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2119945,
+          "name": "The Laughing Cow",
+          "logo": "ChaosDwarf_04",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 94977,
+          "name": "Azaghal_es",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2070024,
+          "name": "NO guardians of Azaghal",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "run ruuuunnnn",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361880,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": "Khemri",
+    "match_uuid": "100046b279",
+    "match_id": 4633209,
+    "opponents": [
+      {
+        "coach": {
+          "id": 101118,
+          "name": "Spartako",
+          "twitch": null,
+          "youtube": null,
+          "country": "it",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2111151,
+          "name": "RED WALL to WC2018",
+          "logo": "Orc_11",
+          "value": 1000,
+          "motto": "No Pasaran",
+          "score": 1,
+          "death": 0,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 90046,
+          "name": "jounisii",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2098771,
+          "name": "Wood The F Is Up",
+          "logo": "WoodElf_01",
+          "value": 990,
+          "motto": "hgmj",
+          "score": 0,
+          "death": 0,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361881,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 94977,
+          "name": "Azaghal_es",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2070024,
+          "name": "NO guardians of Azaghal",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "run ruuuunnnn",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 138639,
+          "name": "SuperResistante",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2120192,
+          "name": "As des Os",
+          "logo": "Undead_01",
+          "value": 1000,
+          "motto": "Kraaaack",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361882,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 90046,
+          "name": "jounisii",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2098771,
+          "name": "Wood The F Is Up",
+          "logo": "WoodElf_01",
+          "value": 990,
+          "motto": "hgmj",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 1031,
+          "name": "JRCO",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2060271,
+          "name": "Brothers Of Bodom",
+          "logo": "DarkElf_02",
+          "value": 1000,
+          "motto": "Kill !",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361883,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 101118,
+          "name": "Spartako",
+          "twitch": null,
+          "youtube": null,
+          "country": "it",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2111151,
+          "name": "RED WALL to WC2018",
+          "logo": "Orc_11",
+          "value": 1000,
+          "motto": "No Pasaran",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 169127,
+          "name": "Nykteas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2119945,
+          "name": "The Laughing Cow",
+          "logo": "ChaosDwarf_04",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361884,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 138639,
+          "name": "SuperResistante",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2120192,
+          "name": "As des Os",
+          "logo": "Undead_01",
+          "value": 1000,
+          "motto": "Kraaaack",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 90046,
+          "name": "jounisii",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2098771,
+          "name": "Wood The F Is Up",
+          "logo": "WoodElf_01",
+          "value": 990,
+          "motto": "hgmj",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361885,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 94977,
+          "name": "Azaghal_es",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2070024,
+          "name": "NO guardians of Azaghal",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "run ruuuunnnn",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 101118,
+          "name": "Spartako",
+          "twitch": null,
+          "youtube": null,
+          "country": "it",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2111151,
+          "name": "RED WALL to WC2018",
+          "logo": "Orc_11",
+          "value": 1000,
+          "motto": "No Pasaran",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361886,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 1031,
+          "name": "JRCO",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2060271,
+          "name": "Brothers Of Bodom",
+          "logo": "DarkElf_02",
+          "value": 1000,
+          "motto": "Kill !",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 169127,
+          "name": "Nykteas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2119945,
+          "name": "The Laughing Cow",
+          "logo": "ChaosDwarf_04",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361887,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 101118,
+          "name": "Spartako",
+          "twitch": null,
+          "youtube": null,
+          "country": "it",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2111151,
+          "name": "RED WALL to WC2018",
+          "logo": "Orc_11",
+          "value": 1000,
+          "motto": "No Pasaran",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 138639,
+          "name": "SuperResistante",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2120192,
+          "name": "As des Os",
+          "logo": "Undead_01",
+          "value": 1000,
+          "motto": "Kraaaack",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361888,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 169127,
+          "name": "Nykteas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2119945,
+          "name": "The Laughing Cow",
+          "logo": "ChaosDwarf_04",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 90046,
+          "name": "jounisii",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2098771,
+          "name": "Wood The F Is Up",
+          "logo": "WoodElf_01",
+          "value": 990,
+          "motto": "hgmj",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361889,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 1031,
+          "name": "JRCO",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2060271,
+          "name": "Brothers Of Bodom",
+          "logo": "DarkElf_02",
+          "value": 1000,
+          "motto": "Kill !",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 94977,
+          "name": "Azaghal_es",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2070024,
+          "name": "NO guardians of Azaghal",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "run ruuuunnnn",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361890,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 138639,
+          "name": "SuperResistante",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2120192,
+          "name": "As des Os",
+          "logo": "Undead_01",
+          "value": 1000,
+          "motto": "Kraaaack",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 169127,
+          "name": "Nykteas",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2119945,
+          "name": "The Laughing Cow",
+          "logo": "ChaosDwarf_04",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361891,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 101118,
+          "name": "Spartako",
+          "twitch": null,
+          "youtube": null,
+          "country": "it",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2111151,
+          "name": "RED WALL to WC2018",
+          "logo": "Orc_11",
+          "value": 1000,
+          "motto": "No Pasaran",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 1031,
+          "name": "JRCO",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2060271,
+          "name": "Brothers Of Bodom",
+          "logo": "DarkElf_02",
+          "value": 1000,
+          "motto": "Kill !",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 3",
+    "competition_id": 91031,
+    "contest_id": 361892,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 90046,
+          "name": "jounisii",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2098771,
+          "name": "Wood The F Is Up",
+          "logo": "WoodElf_01",
+          "value": 990,
+          "motto": "hgmj",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 94977,
+          "name": "Azaghal_es",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2070024,
+          "name": "NO guardians of Azaghal",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "run ruuuunnnn",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361923,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 13389,
+          "name": "Felryan",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2078009,
+          "name": "Undead of the Storm",
+          "logo": "Undead_11",
+          "value": 1000,
+          "motto": "Nexus is full of brain !",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 139996,
+          "name": "BANE182",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2062126,
+          "name": "Great Red Woods",
+          "logo": "WoodElf_15",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361924,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 791,
+          "name": "Filadeus",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2075130,
+          "name": "The Last Dwarves",
+          "logo": "Dwarf_16",
+          "value": 1000,
+          "motto": "A new generation of dwarves is coming up!",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 48291,
+          "name": "Rosidox",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2066489,
+          "name": "Rodents et al.",
+          "logo": "Skaven_16",
+          "value": 1000,
+          "motto": "Bells are a rat's best friend.",
+          "score": null,
+          "death": null,
+          "race": "Skaven"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361925,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 113924,
+          "name": "SERGUL",
+          "twitch": null,
+          "youtube": null,
+          "country": "sp",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2073881,
+          "name": "NAVAJITAS PLATEADAS",
+          "logo": "DarkElf_20",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 106344,
+          "name": "Kia Sidhe",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068192,
+          "name": "The Mighty Squigs",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "Bashing, Smashing & Trashing!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361926,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 48291,
+          "name": "Rosidox",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2066489,
+          "name": "Rodents et al.",
+          "logo": "Skaven_16",
+          "value": 1000,
+          "motto": "Bells are a rat's best friend.",
+          "score": null,
+          "death": null,
+          "race": "Skaven"
+        }
+      },
+      {
+        "coach": {
+          "id": 13389,
+          "name": "Felryan",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2078009,
+          "name": "Undead of the Storm",
+          "logo": "Undead_11",
+          "value": 1000,
+          "motto": "Nexus is full of brain !",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361927,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 106344,
+          "name": "Kia Sidhe",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068192,
+          "name": "The Mighty Squigs",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "Bashing, Smashing & Trashing!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 139996,
+          "name": "BANE182",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2062126,
+          "name": "Great Red Woods",
+          "logo": "WoodElf_15",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361928,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 113924,
+          "name": "SERGUL",
+          "twitch": null,
+          "youtube": null,
+          "country": "sp",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2073881,
+          "name": "NAVAJITAS PLATEADAS",
+          "logo": "DarkElf_20",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 791,
+          "name": "Filadeus",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2075130,
+          "name": "The Last Dwarves",
+          "logo": "Dwarf_16",
+          "value": 1000,
+          "motto": "A new generation of dwarves is coming up!",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361929,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 13389,
+          "name": "Felryan",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2078009,
+          "name": "Undead of the Storm",
+          "logo": "Undead_11",
+          "value": 1000,
+          "motto": "Nexus is full of brain !",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 106344,
+          "name": "Kia Sidhe",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068192,
+          "name": "The Mighty Squigs",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "Bashing, Smashing & Trashing!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361930,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 48291,
+          "name": "Rosidox",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2066489,
+          "name": "Rodents et al.",
+          "logo": "Skaven_16",
+          "value": 1000,
+          "motto": "Bells are a rat's best friend.",
+          "score": null,
+          "death": null,
+          "race": "Skaven"
+        }
+      },
+      {
+        "coach": {
+          "id": 113924,
+          "name": "SERGUL",
+          "twitch": null,
+          "youtube": null,
+          "country": "sp",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2073881,
+          "name": "NAVAJITAS PLATEADAS",
+          "logo": "DarkElf_20",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361931,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 139996,
+          "name": "BANE182",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2062126,
+          "name": "Great Red Woods",
+          "logo": "WoodElf_15",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 791,
+          "name": "Filadeus",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2075130,
+          "name": "The Last Dwarves",
+          "logo": "Dwarf_16",
+          "value": 1000,
+          "motto": "A new generation of dwarves is coming up!",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361932,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 113924,
+          "name": "SERGUL",
+          "twitch": null,
+          "youtube": null,
+          "country": "sp",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2073881,
+          "name": "NAVAJITAS PLATEADAS",
+          "logo": "DarkElf_20",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 13389,
+          "name": "Felryan",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2078009,
+          "name": "Undead of the Storm",
+          "logo": "Undead_11",
+          "value": 1000,
+          "motto": "Nexus is full of brain !",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361933,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 791,
+          "name": "Filadeus",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2075130,
+          "name": "The Last Dwarves",
+          "logo": "Dwarf_16",
+          "value": 1000,
+          "motto": "A new generation of dwarves is coming up!",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 106344,
+          "name": "Kia Sidhe",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068192,
+          "name": "The Mighty Squigs",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "Bashing, Smashing & Trashing!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361934,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 139996,
+          "name": "BANE182",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2062126,
+          "name": "Great Red Woods",
+          "logo": "WoodElf_15",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 48291,
+          "name": "Rosidox",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2066489,
+          "name": "Rodents et al.",
+          "logo": "Skaven_16",
+          "value": 1000,
+          "motto": "Bells are a rat's best friend.",
+          "score": null,
+          "death": null,
+          "race": "Skaven"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361935,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 13389,
+          "name": "Felryan",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2078009,
+          "name": "Undead of the Storm",
+          "logo": "Undead_11",
+          "value": 1000,
+          "motto": "Nexus is full of brain !",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 791,
+          "name": "Filadeus",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2075130,
+          "name": "The Last Dwarves",
+          "logo": "Dwarf_16",
+          "value": 1000,
+          "motto": "A new generation of dwarves is coming up!",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361936,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 113924,
+          "name": "SERGUL",
+          "twitch": null,
+          "youtube": null,
+          "country": "sp",
+          "lang": "spanish"
+        },
+        "team": {
+          "id": 2073881,
+          "name": "NAVAJITAS PLATEADAS",
+          "logo": "DarkElf_20",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 139996,
+          "name": "BANE182",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2062126,
+          "name": "Great Red Woods",
+          "logo": "WoodElf_15",
+          "value": 990,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 4",
+    "competition_id": 91032,
+    "contest_id": 361937,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 106344,
+          "name": "Kia Sidhe",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2068192,
+          "name": "The Mighty Squigs",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "Bashing, Smashing & Trashing!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 48291,
+          "name": "Rosidox",
+          "twitch": null,
+          "youtube": null,
+          "country": "cz",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2066489,
+          "name": "Rodents et al.",
+          "logo": "Skaven_16",
+          "value": 1000,
+          "motto": "Bells are a rat's best friend.",
+          "score": null,
+          "death": null,
+          "race": "Skaven"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361941,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 73419,
+          "name": "Geryon",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2120921,
+          "name": "KPop Boy Band",
+          "logo": "HighElf_01",
+          "value": 670,
+          "motto": "KPop Boy Band",
+          "score": null,
+          "death": null,
+          "race": "HighElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 86407,
+          "name": "Renis",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 1139697,
+          "name": "BLACK ARMY'",
+          "logo": "Undead_08",
+          "value": 1000,
+          "motto": "N\u00e4sta \u00e5r d\u00e5 j\u00e4vlar...",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361942,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 162318,
+          "name": "Mankiz",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2094773,
+          "name": "Leaf Beaters",
+          "logo": "WoodElf_10",
+          "value": 1000,
+          "motto": "Don't touch my leafs",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 127826,
+          "name": "dionysian",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2064146,
+          "name": "OgOgOg",
+          "logo": "Dwarf_01",
+          "value": 1060,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361943,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 25851,
+          "name": "Wolfbanesons",
+          "twitch": null,
+          "youtube": null,
+          "country": "mt",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2091962,
+          "name": "Skull Wolfs",
+          "logo": "Orc_03",
+          "value": 990,
+          "motto": "Teeth or Die!!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 161922,
+          "name": "Gudj",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2082396,
+          "name": "Wyvern Backgammon",
+          "logo": "DarkElf_03",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361945,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 161922,
+          "name": "Gudj",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2082396,
+          "name": "Wyvern Backgammon",
+          "logo": "DarkElf_03",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 86407,
+          "name": "Renis",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 1139697,
+          "name": "BLACK ARMY'",
+          "logo": "Undead_08",
+          "value": 1000,
+          "motto": "N\u00e4sta \u00e5r d\u00e5 j\u00e4vlar...",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361946,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 25851,
+          "name": "Wolfbanesons",
+          "twitch": null,
+          "youtube": null,
+          "country": "mt",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2091962,
+          "name": "Skull Wolfs",
+          "logo": "Orc_03",
+          "value": 990,
+          "motto": "Teeth or Die!!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 162318,
+          "name": "Mankiz",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2094773,
+          "name": "Leaf Beaters",
+          "logo": "WoodElf_10",
+          "value": 1000,
+          "motto": "Don't touch my leafs",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361947,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 73419,
+          "name": "Geryon",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2120921,
+          "name": "KPop Boy Band",
+          "logo": "HighElf_01",
+          "value": 670,
+          "motto": "KPop Boy Band",
+          "score": null,
+          "death": null,
+          "race": "HighElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 161922,
+          "name": "Gudj",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2082396,
+          "name": "Wyvern Backgammon",
+          "logo": "DarkElf_03",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361948,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 127826,
+          "name": "dionysian",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2064146,
+          "name": "OgOgOg",
+          "logo": "Dwarf_01",
+          "value": 1060,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 25851,
+          "name": "Wolfbanesons",
+          "twitch": null,
+          "youtube": null,
+          "country": "mt",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2091962,
+          "name": "Skull Wolfs",
+          "logo": "Orc_03",
+          "value": 990,
+          "motto": "Teeth or Die!!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361949,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 86407,
+          "name": "Renis",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 1139697,
+          "name": "BLACK ARMY'",
+          "logo": "Undead_08",
+          "value": 1000,
+          "motto": "N\u00e4sta \u00e5r d\u00e5 j\u00e4vlar...",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 162318,
+          "name": "Mankiz",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2094773,
+          "name": "Leaf Beaters",
+          "logo": "WoodElf_10",
+          "value": 1000,
+          "motto": "Don't touch my leafs",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361950,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 25851,
+          "name": "Wolfbanesons",
+          "twitch": null,
+          "youtube": null,
+          "country": "mt",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2091962,
+          "name": "Skull Wolfs",
+          "logo": "Orc_03",
+          "value": 990,
+          "motto": "Teeth or Die!!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 73419,
+          "name": "Geryon",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2120921,
+          "name": "KPop Boy Band",
+          "logo": "HighElf_01",
+          "value": 670,
+          "motto": "KPop Boy Band",
+          "score": null,
+          "death": null,
+          "race": "HighElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361951,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 162318,
+          "name": "Mankiz",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2094773,
+          "name": "Leaf Beaters",
+          "logo": "WoodElf_10",
+          "value": 1000,
+          "motto": "Don't touch my leafs",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 161922,
+          "name": "Gudj",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2082396,
+          "name": "Wyvern Backgammon",
+          "logo": "DarkElf_03",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361952,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 86407,
+          "name": "Renis",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 1139697,
+          "name": "BLACK ARMY'",
+          "logo": "Undead_08",
+          "value": 1000,
+          "motto": "N\u00e4sta \u00e5r d\u00e5 j\u00e4vlar...",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 127826,
+          "name": "dionysian",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2064146,
+          "name": "OgOgOg",
+          "logo": "Dwarf_01",
+          "value": 1060,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361953,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 73419,
+          "name": "Geryon",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2120921,
+          "name": "KPop Boy Band",
+          "logo": "HighElf_01",
+          "value": 670,
+          "motto": "KPop Boy Band",
+          "score": null,
+          "death": null,
+          "race": "HighElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 162318,
+          "name": "Mankiz",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2094773,
+          "name": "Leaf Beaters",
+          "logo": "WoodElf_10",
+          "value": 1000,
+          "motto": "Don't touch my leafs",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361954,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 25851,
+          "name": "Wolfbanesons",
+          "twitch": null,
+          "youtube": null,
+          "country": "mt",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2091962,
+          "name": "Skull Wolfs",
+          "logo": "Orc_03",
+          "value": 990,
+          "motto": "Teeth or Die!!",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 86407,
+          "name": "Renis",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 1139697,
+          "name": "BLACK ARMY'",
+          "logo": "Undead_08",
+          "value": 1000,
+          "motto": "N\u00e4sta \u00e5r d\u00e5 j\u00e4vlar...",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 5",
+    "competition_id": 91033,
+    "contest_id": 361955,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 161922,
+          "name": "Gudj",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2082396,
+          "name": "Wyvern Backgammon",
+          "logo": "DarkElf_03",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 127826,
+          "name": "dionysian",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2064146,
+          "name": "OgOgOg",
+          "logo": "Dwarf_01",
+          "value": 1060,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361957,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 115814,
+          "name": "Thessa",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2100531,
+          "name": "Les Sept Nains",
+          "logo": "ChaosDwarf_11",
+          "value": 980,
+          "motto": "Vive Blanche Neige!",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 70996,
+          "name": "Durrun",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2078032,
+          "name": "NOBBL WCQ Orctastic",
+          "logo": "Orc_14",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361958,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 178105,
+          "name": "Ungern",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2086281,
+          "name": "[NOBBL] Nobles Arts",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 2913,
+          "name": "JJape",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2083204,
+          "name": "Shadows of Tartarus",
+          "logo": "DarkElf_18",
+          "value": 1000,
+          "motto": "Far in a Mist a Tower awaits...",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361959,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 70996,
+          "name": "Durrun",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2078032,
+          "name": "NOBBL WCQ Orctastic",
+          "logo": "Orc_14",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 199665,
+          "name": "Lysistrata",
+          "twitch": null,
+          "youtube": null,
+          "country": "de",
+          "lang": "german"
+        },
+        "team": {
+          "id": 2111711,
+          "name": "VanCarstein\u00b4s Elite",
+          "logo": "Neutre_06",
+          "value": 1010,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361960,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 2913,
+          "name": "JJape",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2083204,
+          "name": "Shadows of Tartarus",
+          "logo": "DarkElf_18",
+          "value": 1000,
+          "motto": "Far in a Mist a Tower awaits...",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 458,
+          "name": "Njord",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2076231,
+          "name": "Bad Moon Cankers",
+          "logo": "Goblin_15",
+          "value": 960,
+          "motto": "We will infest you! ",
+          "score": null,
+          "death": null,
+          "race": "Goblin"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361961,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 178105,
+          "name": "Ungern",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2086281,
+          "name": "[NOBBL] Nobles Arts",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 115814,
+          "name": "Thessa",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2100531,
+          "name": "Les Sept Nains",
+          "logo": "ChaosDwarf_11",
+          "value": 980,
+          "motto": "Vive Blanche Neige!",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361962,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 199665,
+          "name": "Lysistrata",
+          "twitch": null,
+          "youtube": null,
+          "country": "de",
+          "lang": "german"
+        },
+        "team": {
+          "id": 2111711,
+          "name": "VanCarstein\u00b4s Elite",
+          "logo": "Neutre_06",
+          "value": 1010,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 2913,
+          "name": "JJape",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2083204,
+          "name": "Shadows of Tartarus",
+          "logo": "DarkElf_18",
+          "value": 1000,
+          "motto": "Far in a Mist a Tower awaits...",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361963,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 70996,
+          "name": "Durrun",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2078032,
+          "name": "NOBBL WCQ Orctastic",
+          "logo": "Orc_14",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 178105,
+          "name": "Ungern",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2086281,
+          "name": "[NOBBL] Nobles Arts",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361964,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 458,
+          "name": "Njord",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2076231,
+          "name": "Bad Moon Cankers",
+          "logo": "Goblin_15",
+          "value": 960,
+          "motto": "We will infest you! ",
+          "score": null,
+          "death": null,
+          "race": "Goblin"
+        }
+      },
+      {
+        "coach": {
+          "id": 115814,
+          "name": "Thessa",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2100531,
+          "name": "Les Sept Nains",
+          "logo": "ChaosDwarf_11",
+          "value": 980,
+          "motto": "Vive Blanche Neige!",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361965,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 178105,
+          "name": "Ungern",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2086281,
+          "name": "[NOBBL] Nobles Arts",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 199665,
+          "name": "Lysistrata",
+          "twitch": null,
+          "youtube": null,
+          "country": "de",
+          "lang": "german"
+        },
+        "team": {
+          "id": 2111711,
+          "name": "VanCarstein\u00b4s Elite",
+          "logo": "Neutre_06",
+          "value": 1010,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361966,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 115814,
+          "name": "Thessa",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2100531,
+          "name": "Les Sept Nains",
+          "logo": "ChaosDwarf_11",
+          "value": 980,
+          "motto": "Vive Blanche Neige!",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 2913,
+          "name": "JJape",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2083204,
+          "name": "Shadows of Tartarus",
+          "logo": "DarkElf_18",
+          "value": 1000,
+          "motto": "Far in a Mist a Tower awaits...",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361967,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 458,
+          "name": "Njord",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2076231,
+          "name": "Bad Moon Cankers",
+          "logo": "Goblin_15",
+          "value": 960,
+          "motto": "We will infest you! ",
+          "score": null,
+          "death": null,
+          "race": "Goblin"
+        }
+      },
+      {
+        "coach": {
+          "id": 70996,
+          "name": "Durrun",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2078032,
+          "name": "NOBBL WCQ Orctastic",
+          "logo": "Orc_14",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361968,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 199665,
+          "name": "Lysistrata",
+          "twitch": null,
+          "youtube": null,
+          "country": "de",
+          "lang": "german"
+        },
+        "team": {
+          "id": 2111711,
+          "name": "VanCarstein\u00b4s Elite",
+          "logo": "Neutre_06",
+          "value": 1010,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 115814,
+          "name": "Thessa",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2100531,
+          "name": "Les Sept Nains",
+          "logo": "ChaosDwarf_11",
+          "value": 980,
+          "motto": "Vive Blanche Neige!",
+          "score": null,
+          "death": null,
+          "race": "ChaosDwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361969,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 178105,
+          "name": "Ungern",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 2086281,
+          "name": "[NOBBL] Nobles Arts",
+          "logo": "Neutre_30",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 458,
+          "name": "Njord",
+          "twitch": null,
+          "youtube": null,
+          "country": "se",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2076231,
+          "name": "Bad Moon Cankers",
+          "logo": "Goblin_15",
+          "value": 960,
+          "motto": "We will infest you! ",
+          "score": null,
+          "death": null,
+          "race": "Goblin"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 6",
+    "competition_id": 91034,
+    "contest_id": 361970,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 2913,
+          "name": "JJape",
+          "twitch": null,
+          "youtube": null,
+          "country": "fi",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2083204,
+          "name": "Shadows of Tartarus",
+          "logo": "DarkElf_18",
+          "value": 1000,
+          "motto": "Far in a Mist a Tower awaits...",
+          "score": null,
+          "death": null,
+          "race": "DarkElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 70996,
+          "name": "Durrun",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2078032,
+          "name": "NOBBL WCQ Orctastic",
+          "logo": "Orc_14",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361971,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 72402,
+          "name": "Xianaria",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2112058,
+          "name": "Greek Reek",
+          "logo": "Necromantic_03",
+          "value": 990,
+          "motto": "We reek of Death",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 194467,
+          "name": "Mortemne",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 1970219,
+          "name": "Vert pelouse..",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "...rouge sang",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361972,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 72057,
+          "name": "Notorious Noob",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2099752,
+          "name": "Big Bad Undead",
+          "logo": "Undead_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 146509,
+          "name": "Cereal Killar",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2071909,
+          "name": "Dumb Dorfs",
+          "logo": "Neutre_27",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361973,
+    "format": "round_robin",
+    "round": 2,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 34441,
+          "name": "Orielensis",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2099685,
+          "name": "The Merciful",
+          "logo": "WoodElf_10",
+          "value": 930,
+          "motto": "Tears in his eyes",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 102059,
+          "name": "Netvudu",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2077665,
+          "name": "Yippee Ki Yay",
+          "logo": "Neutre_22",
+          "value": 960,
+          "motto": "Go Ahead, Make My Day",
+          "score": null,
+          "death": null,
+          "race": "Human"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361974,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 146509,
+          "name": "Cereal Killar",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2071909,
+          "name": "Dumb Dorfs",
+          "logo": "Neutre_27",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 72402,
+          "name": "Xianaria",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2112058,
+          "name": "Greek Reek",
+          "logo": "Necromantic_03",
+          "value": 990,
+          "motto": "We reek of Death",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361975,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 102059,
+          "name": "Netvudu",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2077665,
+          "name": "Yippee Ki Yay",
+          "logo": "Neutre_22",
+          "value": 960,
+          "motto": "Go Ahead, Make My Day",
+          "score": null,
+          "death": null,
+          "race": "Human"
+        }
+      },
+      {
+        "coach": {
+          "id": 194467,
+          "name": "Mortemne",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 1970219,
+          "name": "Vert pelouse..",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "...rouge sang",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361976,
+    "format": "round_robin",
+    "round": 3,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 34441,
+          "name": "Orielensis",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2099685,
+          "name": "The Merciful",
+          "logo": "WoodElf_10",
+          "value": 930,
+          "motto": "Tears in his eyes",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      },
+      {
+        "coach": {
+          "id": 72057,
+          "name": "Notorious Noob",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2099752,
+          "name": "Big Bad Undead",
+          "logo": "Undead_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361977,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 72402,
+          "name": "Xianaria",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2112058,
+          "name": "Greek Reek",
+          "logo": "Necromantic_03",
+          "value": 990,
+          "motto": "We reek of Death",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 102059,
+          "name": "Netvudu",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2077665,
+          "name": "Yippee Ki Yay",
+          "logo": "Neutre_22",
+          "value": 960,
+          "motto": "Go Ahead, Make My Day",
+          "score": null,
+          "death": null,
+          "race": "Human"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361978,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 146509,
+          "name": "Cereal Killar",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2071909,
+          "name": "Dumb Dorfs",
+          "logo": "Neutre_27",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      },
+      {
+        "coach": {
+          "id": 34441,
+          "name": "Orielensis",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2099685,
+          "name": "The Merciful",
+          "logo": "WoodElf_10",
+          "value": 930,
+          "motto": "Tears in his eyes",
+          "score": null,
+          "death": null,
+          "race": "WoodElf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361979,
+    "format": "round_robin",
+    "round": 4,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 194467,
+          "name": "Mortemne",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 1970219,
+          "name": "Vert pelouse..",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "...rouge sang",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 72057,
+          "name": "Notorious Noob",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2099752,
+          "name": "Big Bad Undead",
+          "logo": "Undead_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361981,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 72057,
+          "name": "Notorious Noob",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2099752,
+          "name": "Big Bad Undead",
+          "logo": "Undead_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      },
+      {
+        "coach": {
+          "id": 102059,
+          "name": "Netvudu",
+          "twitch": null,
+          "youtube": null,
+          "country": "es",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2077665,
+          "name": "Yippee Ki Yay",
+          "logo": "Neutre_22",
+          "value": 960,
+          "motto": "Go Ahead, Make My Day",
+          "score": null,
+          "death": null,
+          "race": "Human"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361982,
+    "format": "round_robin",
+    "round": 1,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 194467,
+          "name": "Mortemne",
+          "twitch": null,
+          "youtube": null,
+          "country": "fr",
+          "lang": "french"
+        },
+        "team": {
+          "id": 1970219,
+          "name": "Vert pelouse..",
+          "logo": "Orc_12",
+          "value": 990,
+          "motto": "...rouge sang",
+          "score": null,
+          "death": null,
+          "race": "Orc"
+        }
+      },
+      {
+        "coach": {
+          "id": 146509,
+          "name": "Cereal Killar",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2071909,
+          "name": "Dumb Dorfs",
+          "logo": "Neutre_27",
+          "value": 980,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Dwarf"
+        }
+      }
+    ],
+    "winner": null
+  },
+  {
+    "league": "New Ogham WC 18 Qualifier",
+    "competition": "Division 7",
+    "competition_id": 91035,
+    "contest_id": 361983,
+    "format": "round_robin",
+    "round": 5,
+    "type": "single_match",
+    "status": "scheduled",
+    "stadium": null,
+    "match_uuid": "1000000000",
+    "match_id": 0,
+    "opponents": [
+      {
+        "coach": {
+          "id": 72402,
+          "name": "Xianaria",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2112058,
+          "name": "Greek Reek",
+          "logo": "Necromantic_03",
+          "value": 990,
+          "motto": "We reek of Death",
+          "score": null,
+          "death": null,
+          "race": "Necromantic"
+        }
+      },
+      {
+        "coach": {
+          "id": 72057,
+          "name": "Notorious Noob",
+          "twitch": null,
+          "youtube": null,
+          "country": "gb",
+          "lang": "english"
+        },
+        "team": {
+          "id": 2099752,
+          "name": "Big Bad Undead",
+          "logo": "Undead_12",
+          "value": 1000,
+          "motto": "",
+          "score": null,
+          "death": null,
+          "race": "Undead"
+        }
+      }
+    ],
+    "winner": null
+  }
+]
