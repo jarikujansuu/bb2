@@ -112,3 +112,13 @@ class Client(object):
             }
         ).get('ranking') or []
 
+    def competitions(self, league=None, platform=None, limit=None, exact_league_name=True):
+        return self.fetch(
+            path='/competitions',
+            params={
+                'league': league,
+                'platform': platform,
+                'limit': int(limit) if limit else None,
+                'exact': int(exact_league_name) if exact_league_name else None
+            }
+        ).get('competitions') or []
