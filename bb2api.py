@@ -27,7 +27,7 @@ class Client(object):
                 'league': league,
                 'competition': competition,
                 'platform': platform,
-                'limit': limit
+                'limit': int(limit) if limit else None,
             }
         ).get('coaches') or []
 
@@ -38,7 +38,7 @@ class Client(object):
                 'league': league,
                 'competition': competition,
                 'plaform': platform,
-                'limit': limit
+                'limit': int(limit) if limit else None,
             }
         ).get('teams') or []
 
@@ -82,7 +82,7 @@ class Client(object):
                 'league': league,
                 'competition': competition,
                 'platform': platform,
-                'limit': limit,
+                'limit': int(limit) if limit else None,
                 'exact': int(exact_league_name)
             }
         )
@@ -96,7 +96,7 @@ class Client(object):
                 'status': status,
                 'round': int(round) if round else None,
                 'platform': platform,
-                'limit': limit,
+                'limit': int(limit) if limit else None,
                 'exact': int(exact_league_name) if exact_league_name else None
             }
         ).get('upcoming_matches') or []
