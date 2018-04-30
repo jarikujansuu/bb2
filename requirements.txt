@@ -4,3 +4,4 @@ pystache>=0.5.4
 boto3>=1.4.8
 botocore
 python-dateutil
+aws-xray-sdk>=0.96

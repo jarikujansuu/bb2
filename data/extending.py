@@ -1,6 +1,13 @@
 from data import competitions
 from util.util import grouped
 
+# from aws_xray_sdk.core.async_context import AsyncContext
+# from aws_xray_sdk.core import xray_recorder
+# xray_recorder.configure(service='my_service', context=AsyncContext())
+
+from aws_xray_sdk.core import patch_all
+patch_all()
+
 
 def extend_matches_with_rank(matches, context=None):
     if matches:

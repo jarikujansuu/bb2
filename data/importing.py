@@ -9,6 +9,13 @@ from util.encryption import decrypt_env_json
 from util.util import grouped, unique
 from util.time import datetime_utc
 
+# from aws_xray_sdk.core.async_context import AsyncContext
+# from aws_xray_sdk.core import xray_recorder
+# xray_recorder.configure(service='my_service', context=AsyncContext())
+
+from aws_xray_sdk.core import patch_all
+patch_all()
+
 log = logging.getLogger()
 
 api = Client(decrypt_env_json('BB2_API_SECRETS')['apikey'])

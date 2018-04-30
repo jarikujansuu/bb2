@@ -7,7 +7,14 @@ provider:
   region: eu-west-1
   memorySize: 128
   timeout: 300
+  tracing: true
   iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - xray:PutTraceSegments
+        - xray:PutTelemetryRecords
+      Resource:
+        - '*'
     - Effect: Allow
       Action:
         - KMS:Decrypt
@@ -156,3 +163,4 @@ plugins:
   - serverless-pseudo-parameters
   - serverless-kms-secrets
   - serverless-python-requirements
+  - serverless-plugin-tracing
