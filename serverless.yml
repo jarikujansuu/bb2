@@ -18,6 +18,7 @@ provider:
         - dynamodb:Query
         - dynamodb:PutItem
         - dynamodb:UpdateItem
+        - dynamodb:BatchWriteItem
       Resource:
         'Fn::Join':
           - ':'
@@ -30,6 +31,8 @@ provider:
   environment:
     BB2_API_SECRETS: ${self:custom.kmsSecrets.secrets.bb2api}
     SCHEDULE_HOURS: ${file(config.yml):bb2api.synch.interval}
+    CONFIG_TABLE: { "Ref": "ConfigTable" }
+    COMPETITIONS_TABLE: { "Ref": "CompetitionTable" }
 
 custom:
   kmsSecrets: ${file(kms-secrets.${opt:stage, self:provider.stage}.${opt:region, self:provider.region}.yml)}
@@ -44,10 +47,22 @@ package:
 
 functions:
   import-config:
-    handler: data/import.import_config
+    handler: data/importing.import_config
 
   import-matches:
-    handler: data/import.import_matches
+    handler: data/importing.import_matches
+
+  import-competitions:
+    handler: data/importing.import_competitions
+
+  import-competition-rankings:
+    handler: data/importing.import_rankings
+
+  add_round_to_matches:
+    handler: data/importing.add_round_to_matches
+
+  extend-matches-rank:
+    handler: data/extending.extend_matches_with_rank
 
   bigbob:
     handler: commentator/commentator.tweet
@@ -61,37 +76,58 @@ stepFunctions:
         - schedule:
             name: bb2-import
             description: 'Import data from Cyanide'
-            rate: rate(${file(config.yml):bb2api.synch.interval} hour)
+            rate: rate(1 hour)
 
       definition:
         Comment: "Import data from Cyanide"
         StartAt: import-config
         States:
           import-config:
-            ResultPath: $.config
             Type: Task
+            ResultPath: $.config
             Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-import-config"
+            Next: import-competitions
+
+          import-competitions:
+            Type: Task
+            InputPath: $.config
+            ResultPath: $.competitions
+            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-import-competitions"
+            Next: import-competition-rankings
+
+          import-competition-rankings:
+            Type: Task
+            InputPath: $.competitions
+            ResultPath: null
+            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-import-competition-rankings"
             Next: import-matches
 
           import-matches:
-            InputPath: $.config
-            ResultPath: $.matches
             Type: Task
+            InputPath: $.config
             Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-import-matches"
+            Next: add_round_to_matches
+
+          add_round_to_matches:
+            Type: Task
+            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-add_round_to_matches"
+            Next: extend-matches-rank
+
+          extend-matches-rank:
+            Type: Task
+            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-extend-matches-rank"
             Next: bigbob
 
           bigbob:
-            ResultPath: $.tweeted
             Type: Task
             Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-bigbob"
             End: true
 
 resources:
   Resources:
-    usersTable:
+    ConfigTable:
       Type: AWS::DynamoDB::Table
       Properties:
-        TableName: bb2-config
         AttributeDefinitions:
           - AttributeName: category
             AttributeType: S
@@ -101,6 +137,23 @@ resources:
           - AttributeName: category
             KeyType: HASH
           - AttributeName: id
+            KeyType: RANGE
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+
+    CompetitionTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        AttributeDefinitions:
+          - AttributeName: id
+            AttributeType: N
+          - AttributeName: entry
+            AttributeType: S
+        KeySchema:
+          - AttributeName: id
+            KeyType: HASH
+          - AttributeName: entry
             KeyType: RANGE
         ProvisionedThroughput:
           ReadCapacityUnits: 1

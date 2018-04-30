@@ -1,0 +1,326 @@
+{
+  "leader": {
+    "win": [
+      {
+        "template": "With this victory {{{ winner }}} makes stronger claim on top position."
+      },
+      {
+        "template": "With yet another victory {{{ winner }}} continues their strong performance."
+      },
+      {
+        "template": "{{{ winner }}} continue in first position after this victory."
+      },
+      {
+        "template": "",
+        "weight": 3
+      }
+    ],
+    "draw": [
+      {
+        "template": "{{{ name }}} might be number one, but still they need to keep their guard up."
+      },
+      {
+        "template": "{{{ opponent }}} put up a good fight and {{{ name }}} might be number one, but still they need to keep their guard up."
+      },
+      {
+        "template": "",
+        "weight": 3
+      }
+    ],
+    "loss": [
+      {
+        "template": "This match showed everyone that {{{ loser }}} is not unbeatable even when they are leading the rankings.."
+      },
+      {
+        "template": "{{{ winner }}} wasn't afraid of the {{{ loser }}} and results show that it doesn't matter if you are top team, you still have to give 100% for every match."
+      },
+      {
+        "template": "Did {{{ loser }}} start to think they are invincible and did they become lazy? This is Blood Bowl and you have to play your best in every match."
+      },
+      {
+        "template": "",
+        "weight": 3
+      }
+    ]
+  },
+  "top": {
+    "win": {
+      "ok": [
+        {
+          "template": "With this win {{{ winner }}} improved their chances nicely and certainly will stay at the top."
+        },
+        {
+          "template": "This victory was very important for {{{ winner }}} as they are battling for top position."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "bad": [
+        {
+          "template": "With this win {{{ winner }}} keeps itself still relevant in fighting for top position. First position looks distant but otherwise season is going well for them."
+        },
+        {
+          "template": "This victory was very important for {{{ winner }}} as they still have some chances of winning the competition."
+        },
+        {
+          "template": ""
+        }
+      ],
+      "theoretical": [
+        {
+          "template": "With this win {{{ winner }}} keeps itself still somewhat relevant in fighting for top position."
+        },
+        {
+          "template": "This victory was very important for {{{ winner }}} as they still have slight chances of winning the competition."
+        },
+        {
+          "template": "In theory {{{ winner }}} still has some chance of winning the competition, but it doesn't look too good even after this win."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "none": [
+        {
+          "template": "",
+          "weight": 3
+        }
+      ]
+    },
+    "draw": {
+      "ok": [
+        {
+          "template": "With draw against {{{ other }}} {{{ name }}} should keep their position near the top."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "bad": [
+        {
+          "template": "Did {{{ name }}} loose all their chances with this draw? Certainly they would have preferred victory from this one."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "theoretical": [
+        {
+          "template": "After draw {{{ name }}} doesn't really have much of a chance to win the competition."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "none": [
+        {
+          "template": "",
+          "weight": 3
+        }
+      ]
+    },
+    "loss": {
+      "ok": [
+        {
+          "template": "With loss against {{{ other }}} {{{ name }}} certainly didn't improve their position. But they still should have time to improve."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "bad": [
+        {
+          "template": "After this loss {{{ loser }}} doesn't really have much of a chance to win the competition."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "theoretical": [
+        {
+          "template": "After this loss {{{ loser}}} doesn't really have a chance to win the competition."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "none": [
+        {
+          "template": "",
+          "weight": 3
+        }
+      ]
+    }
+  },
+  "near_top": {
+    "win": {
+      "ok": [
+        {
+          "template": "With this win {{{ winner }}} improved their chances nicely and should move them closer to top."
+        },
+        {
+          "template": "This victory was very important for {{{ winner }}} as they are battling for top positions."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "bad": [
+        {
+          "template": "With this win {{{ winner }}} keeps itself still relevant in fighting for top positions. Even when first position looks quite distant."
+        },
+        {
+          "template": "This victory was very important for {{{ winner }}} as it should move them closer to top."
+        },
+        {
+          "template": ""
+        }
+      ],
+      "theoretical": [
+        {
+          "template": "With this win {{{ winner }}} keeps itself still somewhat relevant in fighting for top positions."
+        },
+        {
+          "template": "{{{ winner }}} doesn't have much of a chance to win the competition, but they are still quite nicely positioned."
+        },
+        {
+          "template": "In theory {{{ winner }}} still has some chance of winning the competition, but it doesn't look too good even after this win."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "none": [
+        {
+          "template": "{{{ winner }}} doesn't have chances to win the competition, but they are still fighting for top positions."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ]
+    },
+    "draw": {
+      "ok": [
+        {
+          "template": "With draw against {{{ other }}} {{{ name }}} should keep their position near the top. But certainly they would have preferred win here."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "bad": [
+        {
+          "template": "Did {{{ name }}} loose all their chances with this draw? Lets see do we have results from other matches yet..."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "none": [
+        {
+          "template": "",
+          "weight": 3
+        }
+      ]
+    },
+    "loss": {
+      "ok": [
+        {
+          "template": "Did {{{ loser }}} just loose any real chance of winning the competition. I think they might still have decent chance..."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "bad": [
+        {
+          "template": "After this loss {{{ loser }}} doesn't really have much of a chance to win the competition."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "theoretical": [
+        {
+          "template": "I think {{{ loser }}} doesn't have any chance of winning the competition anymore."
+        },
+        {
+          "template": "",
+          "weight": 3
+        }
+      ],
+      "none": [
+        {
+          "template": "",
+          "weight": 3
+        }
+      ]
+    }
+  },
+  "bottom": {
+    "win": [
+      {
+        "template": "{{{ winner }}} might be near the bottom but they still should have good chances. And certainly ths win was very important for them."
+      },
+      {
+        "template": "This victory was very important for {{{ winner }}} as it should move them up in rankings."
+      },
+      {
+        "template": "This victory was very important for {{{ winner }}} as it should move them up from bottom."
+      },
+      {
+        "template": "Are {{{ winner }}} bouncing up with this victory? Certainly that seems like only way to go for them. When you hit the bottom you either bounce back or say 'splat!'"
+      },
+      {
+        "template": "{{{ winner }}} doesn't have much of a chance to win the competition, but still win is a win."
+      },
+      {
+        "template": "",
+        "weight": 3
+      }
+    ],
+    "draw": [
+      {
+        "template": "With draw against {{{ other }}} {{{ name }}} is not really moving up from bottom of the rankings."
+      },
+      {
+        "template": "Did {{{ name }}} loose all their chances with this draw? Lets see do we have results from other matches yet..."
+      },
+      {
+        "template": "",
+        "weight": 3
+      }
+    ],
+    "loss": [
+      {
+        "template": "{{{ loser }}} continues their trademark for this season. I think someone should tell them you should aim high in rankings and not for the bottom."
+      },
+      {
+        "template": "With this loss {{{ loser }}} is stuck in bottom of rankings. I am sure fans would like to get their hands on the coach..."
+      },
+      {
+        "template": "I am starting to think {{{ loser }}} should just quit. Well of course actual good teams have to get their wins from someone."
+      },
+      {
+        "template": "",
+        "weight": 3
+      }
+    ]
+  }
+}

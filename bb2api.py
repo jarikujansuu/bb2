@@ -112,7 +112,7 @@ class Client(object):
             }
         ).get('ranking') or []
 
-    def competitions(self, league=None, platform=None, limit=None, exact_league_name=True):
+    def competitions(self, league=None, platform=None, limit=None, exact_league_name=True) -> list:
         return self.fetch(
             path='/competitions',
             params={

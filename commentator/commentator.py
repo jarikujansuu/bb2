@@ -12,12 +12,18 @@ twitter = UserClient(
 )
 
 
-def tweet(event, context):
-    matches = event['matches']
+def tweet(matches, context=None):
+    if matches:
+        for match in matches:
+            previous = None
+            for text in match_report(match):
+                previous = twitter.api.statuses.update.post(
+                    status=text,
+                    in_reply_to_status_id=previous
+                ).data['id']
 
-    for match in matches:
-        twitter.api.statuses.update.post(status=match_report(match))
-
-    return {
-        'matches': list(map(lambda a: a['uuid'], matches))
-    }
+        return {
+            'matches': list(map(lambda a: a['uuid'], matches))
+        }
+    else:
+        return {'matches': []}
