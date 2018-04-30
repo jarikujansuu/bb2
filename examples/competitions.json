@@ -1,0 +1,162 @@
+[
+  {
+    "id": 91037,
+    "name": "Division 8",
+    "date_created": "2018-04-05 20:07:56",
+    "format": "round_robin",
+    "status": 1,
+    "teams_max": 6,
+    "teams_count": 6,
+    "rounds_count": 5,
+    "round": 2,
+    "turn_duration": 2,
+    "league": {
+      "id": 51071,
+      "name": "New Ogham WC 18 Qualifier",
+      "date_created": "2018-04-05 20:00:33",
+      "official": 0,
+      "logo": "Human_08",
+      "registered_teams_count": 48
+    }
+  },
+  {
+    "id": 91035,
+    "name": "Division 7",
+    "date_created": "2018-04-05 20:07:19",
+    "format": "round_robin",
+    "status": 1,
+    "teams_max": 6,
+    "teams_count": 6,
+    "rounds_count": 5,
+    "round": 2,
+    "turn_duration": 2,
+    "league": {
+      "id": 51071,
+      "name": "New Ogham WC 18 Qualifier",
+      "date_created": "2018-04-05 20:00:33",
+      "official": 0,
+      "logo": "Human_08",
+      "registered_teams_count": 48
+    }
+  },
+  {
+    "id": 91034,
+    "name": "Division 6",
+    "date_created": "2018-04-05 20:06:06",
+    "format": "round_robin",
+    "status": 1,
+    "teams_max": 6,
+    "teams_count": 6,
+    "rounds_count": 5,
+    "round": 2,
+    "turn_duration": 2,
+    "league": {
+      "id": 51071,
+      "name": "New Ogham WC 18 Qualifier",
+      "date_created": "2018-04-05 20:00:33",
+      "official": 0,
+      "logo": "Human_08",
+      "registered_teams_count": 48
+    }
+  },
+  {
+    "id": 91033,
+    "name": "Division 5",
+    "date_created": "2018-04-05 20:05:32",
+    "format": "round_robin",
+    "status": 1,
+    "teams_max": 6,
+    "teams_count": 6,
+    "rounds_count": 5,
+    "round": 2,
+    "turn_duration": 2,
+    "league": {
+      "id": 51071,
+      "name": "New Ogham WC 18 Qualifier",
+      "date_created": "2018-04-05 20:00:33",
+      "official": 0,
+      "logo": "Human_08",
+      "registered_teams_count": 48
+    }
+  },
+  {
+    "id": 91032,
+    "name": "Division 4",
+    "date_created": "2018-04-05 20:04:57",
+    "format": "round_robin",
+    "status": 1,
+    "teams_max": 6,
+    "teams_count": 6,
+    "rounds_count": 5,
+    "round": 2,
+    "turn_duration": 2,
+    "league": {
+      "id": 51071,
+      "name": "New Ogham WC 18 Qualifier",
+      "date_created": "2018-04-05 20:00:33",
+      "official": 0,
+      "logo": "Human_08",
+      "registered_teams_count": 48
+    }
+  },
+  {
+    "id": 91031,
+    "name": "Division 3",
+    "date_created": "2018-04-05 20:04:26",
+    "format": "round_robin",
+    "status": 1,
+    "teams_max": 6,
+    "teams_count": 6,
+    "rounds_count": 5,
+    "round": 2,
+    "turn_duration": 2,
+    "league": {
+      "id": 51071,
+      "name": "New Ogham WC 18 Qualifier",
+      "date_created": "2018-04-05 20:00:33",
+      "official": 0,
+      "logo": "Human_08",
+      "registered_teams_count": 48
+    }
+  },
+  {
+    "id": 91030,
+    "name": "Division 2",
+    "date_created": "2018-04-05 20:02:47",
+    "format": "round_robin",
+    "status": 1,
+    "teams_max": 6,
+    "teams_count": 6,
+    "rounds_count": 5,
+    "round": 2,
+    "turn_duration": 2,
+    "league": {
+      "id": 51071,
+      "name": "New Ogham WC 18 Qualifier",
+      "date_created": "2018-04-05 20:00:33",
+      "official": 0,
+      "logo": "Human_08",
+      "registered_teams_count": 48
+    }
+  },
+  {
+    "id": 91029,
+    "name": "Division 1",
+    "date_created": "2018-04-05 20:01:39",
+    "format": "round_robin",
+    "status": 1,
+    "teams_max": 6,
+    "teams_count": 6,
+    "rounds_count": 5,
+    "round": 2,
+    "turn_duration": 2,
+    "league": {
+      "id": 51071,
+      "name": "New Ogham WC 18 Qualifier",
+      "date_created": "2018-04-05 20:00:33",
+      "official": 0,
+      "logo": "Human_08",
+      "registered_teams_count": 48
+    }
+  }
+]
