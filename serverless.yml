@@ -58,9 +58,6 @@ functions:
   import-competition-rankings:
     handler: data/importing.import_rankings
 
-  add_round_to_matches:
-    handler: data/importing.add_round_to_matches
-
   extend-matches-rank:
     handler: data/extending.extend_matches_with_rank
 
@@ -106,11 +103,6 @@ stepFunctions:
             Type: Task
             InputPath: $.config
             Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-import-matches"
-            Next: add_round_to_matches
-
-          add_round_to_matches:
-            Type: Task
-            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-add_round_to_matches"
             Next: extend-matches-rank
 
           extend-matches-rank:

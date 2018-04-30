@@ -36,23 +36,6 @@ def import_matches(to_import, context=None):
     return matches
 
 
-def add_round_to_matches(matches, context=None):
-    extended = []
-
-    for league, for_league in grouped(matches, lambda a: a['leaguename']):
-        for competition, for_competition in grouped(for_league, lambda a: a['competitionname']):
-            played = api.contests(
-                league=league,
-                competition=competition,
-                status='played'
-            )
-            for match in for_competition:
-                contest = next(contest for contest in played if contest['match_uuid'] == match['uuid'])
-                match['round'] = contest['round']
-                extended.append(match)
-    return extended
-
-
 def import_competitions(to_import, context=None):
     loaded = []
     for league, entries in grouped(to_import, lambda a: a['league']):
