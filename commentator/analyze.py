@@ -1,3 +1,5 @@
+import random
+
 def match(match_data):
     home = match_data['teams'][0]
     visitor = match_data['teams'][1]
@@ -19,7 +21,7 @@ def match(match_data):
             else:
                 result['position'] = 'middle'
 
-            score_per_round = (rankings['rounds_count'] - match_data['round']) / (rankings['top_score'] - team['score'])
+            score_per_round = (rankings['top_score'] - team['score']) / (rankings['rounds_count'] - match_data['round'])
             if score_per_round <= 1:
                 result['chances'] = 'ok'
             elif score_per_round <= 2:
