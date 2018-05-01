@@ -5,3 +5,5 @@ boto3>=1.4.8
 botocore
 python-dateutil
 aws-xray-sdk>=0.96
+fn>=0.4.3
+asyncio>=3.4.3

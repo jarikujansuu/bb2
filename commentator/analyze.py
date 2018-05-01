@@ -1,5 +1,6 @@
 import random
 
+
 def match(match_data):
     home = match_data['teams'][0]
     visitor = match_data['teams'][1]
@@ -40,7 +41,7 @@ def match(match_data):
         result = 'win'
 
     def team_result(team):
-        if result == 'win' or 'big_win':
+        if result in ('win' or 'big_win'):
             return 'win' if team == winner else 'loss'
         else:
             return 'draw'
