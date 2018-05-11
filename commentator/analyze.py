@@ -22,7 +22,10 @@ def match(match_data):
             else:
                 result['position'] = 'middle'
 
-            score_per_round = (rankings['top_score'] - team['score']) / (rankings['rounds_count'] - match_data['round'])
+            score_dif = (rankings['top_score'] - team['score'])
+            rounds_left = (rankings['rounds_count'] - match_data['round'] + 1)
+
+            score_per_round = score_dif / rounds_left
             if score_per_round <= 1:
                 result['chances'] = 'ok'
             elif score_per_round <= 2:
