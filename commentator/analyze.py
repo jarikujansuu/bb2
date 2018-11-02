@@ -1,6 +1,13 @@
 import random
 
 
+def analyze(matches, context=None):
+    if matches:
+        return list(map(match, matches))
+    else:
+        return []
+
+
 def match(match_data):
     home = match_data['teams'][0]
     visitor = match_data['teams'][1]
@@ -64,6 +71,7 @@ def match(match_data):
         ranking = None
 
     return {
+        'uuid': match_data['uuid'],
         'league': match_data['leaguename'],
         'competition': match_data['competitionname'],
         'result': result,

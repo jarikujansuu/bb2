@@ -68,6 +68,9 @@ functions:
   extend-matches-rank:
     handler: data/extending.extend_matches_with_rank
 
+  analyze-matches:
+    handler: commentator/analyze.analyze
+
   bigbob:
     handler: commentator/commentator.tweet
     environment:
@@ -115,6 +118,11 @@ stepFunctions:
           extend-matches-rank:
             Type: Task
             Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-extend-matches-rank"
+            Next: analyze-matches
+
+          analyze-matches:
+            Type: Task
+            Resource: "arn:aws:lambda:#{AWS::Region}:#{AWS::AccountId}:function:${self:service}-${opt:stage}-analyze-matches"
             Next: bigbob
 
           bigbob:

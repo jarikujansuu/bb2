@@ -1,22 +1,20 @@
 from commentator.templates import load_templates, random_template, snippet, deep_get
 from pystache import render
-from commentator.analyze import match
 
 
 def match_report(match_data):
-    m = match(match_data)
     about_match = combine(map(
-        lambda a: a(m),
+        lambda a: a(match_data),
         [
             competition,
             score
         ]
     ))
 
-    if m.get('ranking'):
+    if match_data.get('ranking'):
         ranking_texts = [
-            ranking(m, m.get('ranking', {}).get('home')),
-            ranking(m, m.get('ranking', {}).get('visitor'))
+            ranking(match_data, match_data.get('ranking', {}).get('home')),
+            ranking(match_data, match_data.get('ranking', {}).get('visitor'))
         ]
     else:
         ranking_texts = []
