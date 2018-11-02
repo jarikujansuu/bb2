@@ -44,7 +44,7 @@ def match(match_data):
         result = 'win'
 
     def team_result(team):
-        if result in ('win' or 'big_win'):
+        if result in ('win', 'big_win'):
             return 'win' if team == winner else 'loss'
         else:
             return 'draw'
