@@ -93,7 +93,7 @@
     "draw": {
       "ok": [
         {
-          "template": "With draw against {{{ other }}} {{{ name }}} should keep their position near the top."
+          "template": "With draw against {{{ other }}}, {{{ name }}} should keep their position near the top."
         },
         {
           "template": "",
@@ -214,7 +214,7 @@
     "draw": {
       "ok": [
         {
-          "template": "With draw against {{{ other }}} {{{ name }}} should keep their position near the top. But certainly they would have preferred win here."
+          "template": "With draw against {{{ other }}}, {{{ name }}} should keep their position near the top. But certainly they would have preferred win here."
         },
         {
           "template": "",
@@ -325,7 +325,7 @@
     },
     "draw": [
       {
-        "template": "With draw against {{{ other }}} {{{ name }}} is not really moving up from bottom of the rankings."
+        "template": "With draw against {{{ other }}}, {{{ name }}} is not really moving up from bottom of the rankings."
       },
       {
         "template": "Did {{{ name }}} loose all their chances with this draw? Lets see do we have results from other matches yet..."
