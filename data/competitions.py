@@ -4,7 +4,6 @@ from botocore.exceptions import ClientError
 from boto3.dynamodb.conditions import And, Attr, Key
 from datetime import datetime
 
-os.environ['COMPETITIONS_TABLE'] = 'bb2-dev-CompetitionTable-3ZDVWAZFMHA3'
 db = boto3.resource('dynamodb').Table(os.environ['COMPETITIONS_TABLE'])
 
 
